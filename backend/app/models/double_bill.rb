@@ -1,0 +1,2 @@
+class DoubleBill < ApplicationRecord
+end
